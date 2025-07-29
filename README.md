@@ -127,12 +127,6 @@ REACT_APP_API_URL=http://localhost:5000
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](./LICENSE) file for more details.
-
----
 
 ## 👨‍💻 Author
 
